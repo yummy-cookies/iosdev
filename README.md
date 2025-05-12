@@ -23,6 +23,33 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
+Example App: Instagram
+Changing the background color of the messages screen
+Deleting old messages
+
+Instagram:
+- Close friends
+- Adding music to stories
+- Being able to repost your friends posts
+
+Reddit:
+- Uploading posts
+- Anonymous community 
+
+Goodreads:
+- being able to show what you're reading 
+- see what your friends are reading
+- make reading lists
+
+
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+
+App ideas:
+- a fidget app? something that you can fidget with to destress 
+- reslife q/a - students who live on campus can ask questions and get llm-powered answers 
+- summer bucketlist app - goal and fun oriented with picture prompts?
+
 ## Notes
 
 Describe any challenges encountered while building the app.
